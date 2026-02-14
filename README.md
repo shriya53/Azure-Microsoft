@@ -1,6 +1,5 @@
-👇
+🎙 AI-Powered Voice-to-Notes Transcription System
 
-🎙 AI Voice to Smart Notes
 📌 Project Description
 
 AI Voice to Smart Notes is a simple web application that converts recorded speech into structured text notes using a speech recognition model. The system helps students generate notes from lectures efficiently and reduces manual note-taking effort.
